@@ -1,7 +1,6 @@
 .686
 .model flat
 
-extern _malloc : proc
 public _floatToDouble
 
 .data
